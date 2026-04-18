@@ -1,37 +1,50 @@
-Ejercicios de Fundamentos en Python
+# Ejercicios de Fundamentos en Python
 
-Este repositorio contiene una colección de 16 ejercicios básicos en Python diseñados para aprender los conceptos fundamentales de programación. Los ejercicios avanzan progresivamente y permiten practicar interacción con el usuario, operaciones matemáticas y resolución de problemas simples.
+Este repositorio contiene una colección de **16 ejercicios básicos diseñados para aprender los fundamentos de la programación en Python**.  
+Los ejercicios avanzan de forma progresiva y permiten practicar interacción con el usuario, operaciones matemáticas y resolución de problemas simples.
 
-🚀 Contenido por Ejercicios
+---
 
-Ejercicios 1 – 4:
-Introducción a Python y uso de print() e input() para interactuar con el usuario.
+## 🚀 Contenido por Ejercicios
 
-Ejercicios 5 – 9:
-Operaciones matemáticas básicas como suma, multiplicación, resta y cálculo de resto (%).
+- **Ejercicios 1 – 4:** Introducción a Python, uso de `print()` y entrada de datos con `input()`.
 
-Ejercicios 10 – 13:
-Resolución de problemas geométricos relacionados con triángulos, como cálculo de área, perímetro y ángulos.
+- **Ejercicios 5 – 9:** Operaciones matemáticas básicas como suma, multiplicación, resta y uso del operador módulo `%`.
 
-Ejercicio 14:
-Conversión de tiempo de horas, minutos y segundos a segundos totales.
+- **Ejercicios 10 – 13:** Cálculos geométricos relacionados con triángulos: área, perímetro y cálculo de ángulos.
 
-Ejercicio 15:
-Generación de la tabla de multiplicar de un número ingresado por el usuario.
+- **Ejercicio 14:** Conversión de tiempo de **horas, minutos y segundos a segundos totales**.
 
-Ejercicio 16:
-Cálculo de sueldo en base a horas trabajadas y valor por hora.
+- **Ejercicio 15:** Generación de la **tabla de multiplicar** de un número ingresado por el usuario.
 
-🛠 Conceptos Aplicados
+- **Ejercicio 16:** Cálculo de **sueldo mensual** basado en horas trabajadas y valor por hora.
 
-Entrada de datos con input()
-Conversión de tipos (int)
-Uso de variables
-Operaciones matemáticas (+, -, *, /, %)
-Interacción con el usuario
-Resolución de problemas básicos con programación
+---
 
-💻 Cómo ejecutar
+## 🛠 Conceptos Aplicados
 
-Cada ejercicio está comentado en el archivo principal.
-Para probar uno, simplemente selecciona el bloque correspondiente y utiliza el atajo Ctrl + / en PyCharm para descomentarlo y ejecutarlo.
+- Entrada de datos con `input()` y conversión de tipos (`int`).
+- Uso de variables para almacenar información.
+- Operaciones matemáticas (`+`, `-`, `*`, `/`, `%`).
+- Interacción con el usuario mediante la terminal.
+- Resolución de problemas básicos mediante programación.
+
+---
+
+## 💻 Cómo ejecutar
+
+Cada ejercicio se encuentra **comentado dentro del archivo principal**.
+
+Para probar uno:
+
+1. Selecciona el bloque del ejercicio.
+2. Elimina el `#` para descomentarlo.
+3. Ejecuta el programa desde PyCharm.
+
+Atajo útil en PyCharm:
+
+```
+Ctrl + /
+```
+
+Esto permite **activar o desactivar rápidamente los ejercicios**.
