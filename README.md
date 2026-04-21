@@ -3,8 +3,6 @@
 Este repositorio contiene una colección de **16 ejercicios básicos diseñados para aprender los fundamentos de la programación en Python**.  
 Los ejercicios avanzan de forma progresiva y permiten practicar interacción con el usuario, operaciones matemáticas y resolución de problemas simples.
 
----
-
 ## 🚀 Contenido por Ejercicios
 
 - **Ejercicios 1 – 4:** Introducción a Python, uso de `print()` y entrada de datos con `input()`.
@@ -19,8 +17,6 @@ Los ejercicios avanzan de forma progresiva y permiten practicar interacción con
 
 - **Ejercicio 16:** Cálculo de **sueldo mensual** basado en horas trabajadas y valor por hora.
 
----
-
 ## 🛠 Conceptos Aplicados
 
 - Entrada de datos con `input()` y conversión de tipos (`int`).
@@ -28,8 +24,6 @@ Los ejercicios avanzan de forma progresiva y permiten practicar interacción con
 - Operaciones matemáticas (`+`, `-`, `*`, `/`, `%`).
 - Interacción con el usuario mediante la terminal.
 - Resolución de problemas básicos mediante programación.
-
----
 
 ## 💻 Cómo ejecutar
 
